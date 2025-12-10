@@ -10,7 +10,5 @@ int main()
     cout << c << endl;
     cout << "Hello world!" << endl;
 
-    // tambah ini kita coba
-
     return 0;
 }
